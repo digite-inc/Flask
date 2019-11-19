@@ -1,5 +1,4 @@
 import pytest
-import FlaskExample as flaskex
 import requests
 
 
